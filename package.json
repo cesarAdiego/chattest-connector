@@ -1,0 +1,22 @@
+{
+  "name": "@chattest/chattest-connector",
+  "version": "1.0.0",
+  "description": "Exposes a common interface for all chattest-connectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarAdiego/chattest-connector.git"
+  },
+  "keywords": [
+    "chattest"
+  ],
+  "author": "Cesar Adiego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesarAdiego/chattest-connector/issues"
+  },
+  "homepage": "https://github.com/cesarAdiego/chattest-connector#readme"
+}
